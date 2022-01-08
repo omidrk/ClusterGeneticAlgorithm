@@ -29,3 +29,7 @@ Running GA different mutation
 ```sh
 python GA_mutation.py
 ```
+Running GA elbow 
+```sh
+python GA_elbow.py
+```
